@@ -1,41 +1,28 @@
-# 👋 Hi, I'm Adeesh!
+![Copy of Linkedin Header New](https://github.com/user-attachments/assets/cbc88a4e-ecd2-42c3-95a0-2e2d4bb68f1a)
+<h1 align="center">Hi 👋, I'm Adeesh Krishna</h1>
+<h3 align="center">A passionate Data Scientist and Machine Learning Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-A passionate Data Scientist and Machine Learning Enthusiast with hands-on experience in transforming data into actionable insights, building predictive models, and developing intelligent solutions for business challenges. Currently a Data Science Intern at Luminar Technohub, I'm constantly learning and experimenting with new tools and technologies to deepen my expertise.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adeeshkrishna&label=Profile%20views&color=0e75b6&style=flat" alt="adeeshkrishna" /> </p>
 
-# 🚀 Technical Skills
+- 🌱 I’m currently learning **NLP, GenAI**
 
-- Programming Languages: Python, SQL
-- Machine Learning & Data Science Libraries: Pandas, NumPy, Scikit-Learn, TensorFlow, OpenCV, Mediapipe
-- Data Visualization: Power BI, Matplotlib, Seaborn
-- Other Tools: Streamlit, MySQL
+- 💬 Ask me about **Data Science, Data Analysis, ML, DL, AL, OpenCV, PowerBI, MySQL**
 
-# 🔍 Areas of Expertise
+- 📫 How to reach me **adeeshkrishna4@gmail.com**
 
-- Data Preprocessing & Exploratory Data Analysis
-- Machine Learning Model Development & Optimization
-- Natural Language Processing (NLP)
-- Computer Vision Applications with OpenCV & Mediapipe
-- Business Intelligence Reporting and Data Visualization
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/adeeshkrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeeshkrishna" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adeeshkrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adeeshkrishna" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adeeshkrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adeeshkrishna" height="30" width="40" /></a>
+</p>
 
-# 📂 Notable Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-- Bank Marketing Campaign Prediction: Developed a model to predict marketing campaign success using Random Forest, achieving 92% accuracy.
-- Autism Spectrum Disorder Detection: Built a CNN model to classify ASD from facial images, achieving 82% accuracy.
-- SmartAd Intelligent Advertisement Board: Created a real-time ad targeting system using facial analysis for personalized ad display.
-- IPL Data Analysis: Designed a Power BI dashboard for IPL data (2008-2024), visualizing key performance metrics and trends.
-- Amazon Sales Analysis: Performed data analysis on Amazon sales data, identifying sales trends and customer purchasing patterns.
-- Blinkit Sales Analysis: Analyzed Blinkit's sales data to uncover business insights, contributing to data-driven decision-making for sales strategies.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeeshkrishna&show_icons=true&locale=en&layout=compact" alt="adeeshkrishna" /></p>
 
-# 🌱 What I'm Currently Working On
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeeshkrishna&show_icons=true&locale=en" alt="adeeshkrishna" /></p>
 
-- Enhancing my skills in NLP and Computer Vision by working on projects with real-world impact.
-- Learning advanced techniques in Deep Learning and AI to broaden my machine learning expertise.
-
-# 📫 Let's Connect!
-
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/adeeshkrishna/)
-- Portfolio: https://adeeshkrishna.github.io/Portfolio/
-- Email: adeeshkrishna4@gmail.com
-
-Feel free to reach out for collaboration, project discussions, or just to say hi! I'm always excited to connect with fellow data enthusiasts and exchange ideas.
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeeshkrishna&" alt="adeeshkrishna" /></p>
