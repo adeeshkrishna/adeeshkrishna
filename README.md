@@ -1,4 +1,3 @@
-![Copy of Linkedin Header New](https://github.com/user-attachments/assets/cbc88a4e-ecd2-42c3-95a0-2e2d4bb68f1a)
 <h1 align="center">Hi 👋, I'm Adeesh Krishna</h1>
 <h3 align="center">A passionate Data Scientist and Machine Learning Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
